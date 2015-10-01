@@ -49,6 +49,6 @@
         USE_PROXY:305
       }
 
-      angular.module('httpStatusCodes')
+      angular.module('httpStatusCodes', [])
         .constant('httpStatusCodes', httpStatusCode)
   });
