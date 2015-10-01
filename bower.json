@@ -1,0 +1,30 @@
+{
+  "name": "status-codes",
+  "version": "1.0.0",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Http response status code constants for angularjs",
+  "main": "status_codes.js",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "http",
+    "status",
+    "code",
+    "codes",
+    "response",
+    "xhr",
+    "$http"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
