@@ -51,4 +51,4 @@
 
       angular.module('httpStatusCodes', [])
         .constant('httpStatusCodes', httpStatusCode)
-  });
+  })();
